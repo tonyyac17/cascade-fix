@@ -39,3 +39,27 @@ div.text {
     font-size: 22px;
     font-weight: 100;
 }
+
+.one {
+    background: pink;
+    border: 3px solid blue;
+    /* CHANGE ME */
+    padding: 32px;
+    margin: 12px;
+}
+  
+.two {
+    background: lightblue;
+    border: 3px solid purple;
+    /* CHANGE ME */
+    margin-bottom: 48px;
+}
+  
+.three {
+    background: peachpuff;
+    border: 3px solid brown;
+    width: 200px;
+    /* CHANGE ME */
+    padding: 32px;
+    margin-left: auto;
+}
